@@ -15,7 +15,7 @@ Each lesson teaches the rule of the book's lesson the way the book does (الأ�
 | Part | Lessons | Status |
 |---|---|---|
 | الجزء الأول · Part 1 | 1–16: the sentence, noun / verb / particle, past / present / imperative, doer, object, mubtadaʾ and khabar, verbal and nominal sentences, naṣb / jazm / rafʿ of the present verb, kāna and its sisters, inna and its sisters, prepositions, the adjective | ✅ interactive |
-| الجزء الثاني · Part 2 | 17–51: built and declinable words, signs of iʿrāb, weak verbs and nouns, hidden *an*, conditionals, the five verbs, dual and plurals, iḍāfa, the five nouns, definiteness, pronouns, relatives, demonstratives, passive, absolute object, object of purpose, adverbs | ✅ 17–31 interactive, rest coming |
+| الجزء الثاني · Part 2 | 17–51: built and declinable words, signs of iʿrāb, weak verbs and nouns, hidden *an*, conditionals, the five verbs, dual and plurals, iḍāfa, the five nouns, definiteness, pronouns, relatives, demonstratives, passive, absolute object, object of purpose, adverbs | ✅ 17–38 interactive, rest coming |
 | الجزء الثالث · Part 3 | 52–77: agreement, sentences as predicates, *anna* / *inna*, verb conjugation with pronouns, augmented verbs, hamza, transitivity, participles, exception, ḥāl, tamyīz, vocative, diptotes, followers, questions | listed, coming next |
 
 ## What's inside a lesson
