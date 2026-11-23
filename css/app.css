@@ -386,7 +386,7 @@ table.mistakes td.bad-x { text-decoration: line-through; color: var(--bad); }
 .brand .ar { font-size: 1.5rem; font-weight: 700; color: var(--accent); }
 .flagbar.ar-bar i:nth-child(1) { background: #1f6f43; } .flagbar.ar-bar i:nth-child(2) { background: #c9a227; border: 0; } .flagbar.ar-bar i:nth-child(3) { background: #233f8f; }
 .progressbar > i { background: linear-gradient(90deg, #1f6f43, #c9a227); }
-.part-k { font-family: var(--arabic); font-size: 1.15rem; }
+.part-k { font-family: var(--arabic); font-size: 1.1rem; width: auto; height: auto; padding: .1rem .7rem; line-height: 1.6; }
 .sec-ar .ar { color: var(--muted); font-size: 1.15em; }
 .exs .ex { display: grid; grid-template-columns: 1fr; gap: .1rem; padding: .45rem 0; border-bottom: 1px dashed var(--line); }
 .exar { font-family: var(--arabic); font-size: calc(var(--arsize) * 1.15); line-height: 1.9; text-align: right; }
